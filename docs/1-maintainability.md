@@ -49,7 +49,7 @@ Gebruik hiervoor
 ### Stap 4. Schoon de code op en refactor de architectuur
 1. Refactor de architectuur. Bedenk welke verantwoordelijkheden in welke klassen of laag thuishoren.
    Je mag nieuwe klassen introduceren en de code vriendelijker voor
-   gebruikers en developers maken. Reduceer waar nodig (en logisch).
+   gebruikers en developers maken. Reduceer waar nodig (en logisch)..
    
 2. Waar liggen de verantwoordelijkheden van packages, hoe praten deze met elkaar?
    Wie beheert zijn informatie en hoe komt een pacakage aan informatie die diegene nodig heeft?
